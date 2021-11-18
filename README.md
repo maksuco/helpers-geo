@@ -1,6 +1,6 @@
 # Helpers GEO
 
-This Package works with maksuco helps, is just the geo database
+This Package works with maksuco helpers, is just the geo database 
 
 
 ## Installation
